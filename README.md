@@ -10,6 +10,6 @@
 Create a new environment
 
 ```
-conda create -p venv python==version   -y
+conda create -p venv python==version -y
 
 ```
